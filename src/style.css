@@ -1,0 +1,13 @@
+@import 'normalize.css';
+@import './second.css';
+
+body{
+	background: grey;
+	color: green;
+}
+
+.image-block {
+	width: 640px;
+	height: 480px;
+	background-image: url(./new.jpg);
+}
